@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)
+
 
 <!--
 **FerryFisher/FerryFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
