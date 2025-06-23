@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 
 <!--
 **FerryFisher/FerryFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
