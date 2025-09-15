@@ -1,4 +1,3 @@
-## I'm Ferry 👋.
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=flat&logo=windowsterminal)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
